@@ -1,0 +1,4 @@
+user = input("Listen Alan Wallker")
+users = (user + "Lol you have choose" + user)
+print(users)
+return user
